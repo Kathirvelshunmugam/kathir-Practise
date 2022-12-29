@@ -2,3 +2,67 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.root{
+    --primary-color: violet;
+
+}
+.container{
+    padding-left: 1rem;
+    padding-right: 2rem;
+    color: blueviolet;
+}
+.para{
+    padding-left: 1rem;
+    padding-right: 2rem;
+    color: blueviolet;
+    list-style: none;
+}
+.links{
+    background-color:blue;
+    border-radius: 2rem;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.link-primary{
+    background-color: var(--primary-color);
+    
+    border-radius: 0.5rem;
+    color: rgb(3, 1, 1);
+    text-decoration: none;
+    text-align: center;
+    font-size: small;
+}
+.list-one{
+    display: inline;
+    text-decoration: dotted;
+}
+.navigation{
+    background-color: aqua;
+    border-top-left-radius: 1rem;
+
+}
+.navi{
+    color: black;
+    text-decoration: none;
+    background-color: violet;
+    display: inline;
+}
+.ul-list{
+    display: inline;
+}
+.list-disp{
+    display: inline;
+}
+.hero{
+    padding: 2rem;
+}
+.hero .hero-img{
+   max-width: 350px;
+   display: block;
+   margin: auto;
+}
+.hero .hero-heading{
+    
+    text-align: center;
+}
