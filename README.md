@@ -1,3 +1,3 @@
 # kathirr-Project
-Practising and Implementation of HTML, CSS and JS to build my portfolio.
+Practising and implementing of HTML and CSS
 
